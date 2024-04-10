@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Old+Persian&display=swap');
+
+body{
+    background-color: black;
+}
+
+.fiaplogo{
+    text-align: center;
+}
+
+.titulo{
+    color: #ED145b;
+    font-family: "Noto Sans Old Persian", sans-serif;
+    font-weight: 400;
+}
