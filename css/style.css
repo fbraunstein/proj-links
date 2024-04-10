@@ -116,6 +116,18 @@ a{
     color: #8fff38;
 }
 
+.boxtituloengenhariadacomputacao{
+    text-align: center;
+}
+
+.tituloengenhariadacomputacao{
+    color: #8fff38;
+}
+
+.imgengenhariadacomputacao{
+    border-radius: 15px;
+}
+
 .engenhariadaproducao{
     color: #38ffa9;
 }
@@ -134,6 +146,25 @@ a{
 
 .titulobancodedados{
     color: #38f2ffce;
+}
+
+.imgbancodedados{
+    border-radius: 15px;
+}
+
+.textosbancodedados{
+    color: #38f2ffce;
+    text-align: center;
+}
+
+.fimbancodedados{
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+}
+
+.pebancodedados{
+    color: #38f2ffce;
+    text-decoration: underline;
 }
 
 .gestaodetecnologiadainformacao{
