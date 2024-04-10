@@ -62,8 +62,6 @@ a{
 }
 
 .imagemadm{
-    width: 200px;
-    height: 200px;
     border-radius: 15px;
 }
 
@@ -87,6 +85,33 @@ a{
     color: #f2ff38;
 }
 
+.tituloads{
+    color: #f2ff38;
+}
+
+.boxtituloads{
+    text-align: center;
+}
+
+.imagemads{
+    border-radius: 15px;
+}
+
+.textosads{
+    color: #f2ff38;
+    text-align: center;
+}
+
+.peads{
+    color: #f2ff38;
+    text-decoration: underline;
+}
+
+.fimads{
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+}
+
 .engenhariadacomputacao{
     color: #8fff38;
 }
@@ -100,6 +125,14 @@ a{
 }
 
 .bancodedados{
+    color: #38f2ffce;
+}
+
+.boxtitulobancodedados{
+    text-align: center;
+}
+
+.titulobancodedados{
     color: #38f2ffce;
 }
 
