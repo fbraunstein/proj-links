@@ -19,6 +19,11 @@ body{
     color: #ED145b;
     float: left;
     text-align: center;
+    border-radius: 50px;
+}
+
+.cliqueaqui{
+    text-decoration: underline;
 }
 
 .titulocursos{
@@ -28,6 +33,7 @@ body{
 .box2{
     background-color: rgb(30, 30, 30);
     text-align: center;
+    border-radius: 50px;
 }
 
 ul{
@@ -43,6 +49,40 @@ a{
     color: #ffa938;
 }
 
+.boxtituloadm{
+    text-align: center;
+}
+
+.tituloadm{
+    color: #ffa938;
+}
+
+.bodyadm{
+    background-color: black;
+}
+
+.imagemadm{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.textosadm{
+    color: #ffa938;
+    text-align: center;
+}
+
+.peadm{
+    color: #ffa938;
+    text-decoration: underline;
+    
+}
+
+.fimadm{
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+}
+
 .ads{
     color: #f2ff38;
 }
@@ -55,8 +95,12 @@ a{
     color: #38ffa9;
 }
 
+.engenhariamecatronica{
+    color: #38ffe4dc;
+}
+
 .bancodedados{
-    color: #38f2ff;
+    color: #38f2ffce;
 }
 
 .gestaodetecnologiadainformacao{
