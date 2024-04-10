@@ -151,7 +151,38 @@ a{
     text-align: center;
 }
 
+.tituloengenhariadaproducao{
+    color: #38ffa9;
+}
+
+.imgengenhariadaproducao{
+    border-radius: 15px;
+}
+
+.textosengenhariadaproducao{
+    color: #38ffa9;
+    text-align: center;
+}
+
+.fimengenhariadaproducao{
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+}
+
+.peengenhariadaproducao{
+    color: #38ffa9;
+    text-decoration: underline;
+}
+
 .engenhariamecatronica{
+    color: #38ffe4dc;
+}
+
+.boxengenhariamecatronica{
+    text-align: center;
+}
+
+.tituloengenheriamecatronica{
     color: #38ffe4dc;
 }
 
