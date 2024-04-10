@@ -30,7 +30,51 @@ body{
     text-align: center;
 }
 
+ul{
+    list-style-type: none;
+}
+
 a{
     text-decoration: none;
     color: #ED145b;
+}
+
+.adm{
+    color: #ffa938;
+}
+
+.ads{
+    color: #f2ff38;
+}
+
+.engenhariadacomputacao{
+    color: #8fff38;
+}
+
+.engenhariadaproducao{
+    color: #38ffa9;
+}
+
+.bancodedados{
+    color: #38f2ff;
+}
+
+.gestaodetecnologiadainformacao{
+    color: #388fff;
+}
+
+.jogosdigitais{
+    color: #4538ff;
+}
+
+.sistemasdeinformacao{
+    color: #a838ff;
+}
+
+.sistemasparainternet{
+    color: #ff38f2;
+}
+
+.rededecomputadores{
+    color: #ff388e;
 }
