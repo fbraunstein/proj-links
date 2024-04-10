@@ -128,8 +128,27 @@ a{
     border-radius: 15px;
 }
 
+.textosengenhariadacomputacao{
+    text-align: center;
+    color: #8fff38;
+}
+
+.fimdaengenhariadacomputacao{
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+}
+
+.peengenhariadacomputacao{
+    color: #8fff38;
+    text-decoration: underline;
+}
+
 .engenhariadaproducao{
     color: #38ffa9;
+}
+
+.boxtituloengenhariadaproducao{
+    text-align: center;
 }
 
 .engenhariamecatronica{
