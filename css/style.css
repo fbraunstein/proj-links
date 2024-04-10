@@ -186,6 +186,25 @@ a{
     color: #38ffe4dc;
 }
 
+.imgengenhariamecatronica{
+    border-radius: 15px;
+}
+
+.textosengenhariamecatronica{
+    color: #38ffe4dc;
+    text-align: center;
+}
+
+.fimengenhariamecatronica{
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+}
+
+.peengenhariamecatronica{
+    color: #38ffe4dc;
+    text-decoration: underline;
+}
+
 .bancodedados{
     color: #38f2ffce;
 }
