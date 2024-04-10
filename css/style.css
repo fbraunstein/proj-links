@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #404040;
+}
+
+.vermelhofiap{
+    color: #EB145A;
+    
+}
+
+.topo{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+.logofiap{
+    width: 70px;
+}
+
+a{
+    text-decoration: none;
+    color: #EB145A;
+}
+
+.cliqueaqui{
+    color: black;
+}
